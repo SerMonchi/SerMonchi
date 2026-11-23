@@ -3,7 +3,7 @@
 ## Projects
 
 - **Fire TV** — Custom launchers, a Tamagotchi live wallpaper, and other Fire TV apps.
-- **macOS** — MacScape and other macOS apps.
+- **macOS** — LiveBloom and other macOS apps.
 - **Windows** — Desktop apps and tools.
 - **Game development** — A game currently in development.
 
