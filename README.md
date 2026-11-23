@@ -1,11 +1,16 @@
 # Monchi
 
-I build apps for Fire TV, macOS, and Windows. 
-My projects include MacScape for macOS, and I plan to release a game in the future.
+## Projects
 
-All projects are **free and open source**. Feedback, suggestions, and constructive criticism are always welcome! 
+- **Fire TV** — Custom launchers, a Tamagotchi live wallpaper, and other Fire TV apps.
+- **macOS** — MacScape and other macOS apps.
+- **Windows** — Desktop apps and tools.
+- **Game development** — A game currently in development.
 
-If you enjoy my work and would like to support me, feel free to leave a donation. 
+All projects are **free and open source**.
 
+Feedback, suggestions, and constructive criticism are always welcome!
+
+If you enjoy my work and would like to support me, feel free to leave a donation.
 
 **Donations are completely optional.**
